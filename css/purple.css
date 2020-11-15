@@ -1,0 +1,16 @@
+:root {
+    --mainColor: #e6739f;
+    --secondaryColor: #f1d4d4;
+    --borderColor: #1d1520;
+
+    --mainText: black;
+    --secondaryText: #4b5156;
+    --themedotBorder: #24292e;
+    --previewBg: rgba(241, 212, 212,0.8);
+    --previewshadow: #790c5a;
+    --buttonColor:#790c5a;
+}
+
+#skills li{
+    color: white;
+}
